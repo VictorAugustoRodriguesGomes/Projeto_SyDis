@@ -11,8 +11,8 @@ Com o app, os usuários podem criar contas, fazer login, recuperar senhas e visu
 Após o login dos usuários, é possível reportar incidentes ambientais, como alagamentos, incêndios, desmoronamentos, entre outros. Além disso, o aplicativo permite visualizar e comentar as ocorrências adicionadas por outros usuários.
 
 O app foi desenvolvido no Android Studio com Java, e o Back-End utiliza os serviços do Google Firebase. Este projeto é uma prova da minha habilidade em transformar ideias em realidade.
-
 </br>
+
 # Imagens do aplicativo SyDis
 
 <div align="center">
