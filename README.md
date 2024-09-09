@@ -54,6 +54,3 @@ Este projeto é licenciado sob os termos da licença Apache 2.0.
 <img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_SyDis/blob/main/Imagem%20do%20aplicativo%20SyDis/img6.png" width="100"/>
 
 <img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_SyDis/blob/main/Imagem%20do%20aplicativo%20SyDis/img5.png"/>
-
-
-
