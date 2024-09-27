@@ -1,24 +1,24 @@
-projeto sydis/.gradle/
-projeto sydis/build/
+Arquivos do projeto SyDis/.gradle/
+Arquivos do projeto SyDis/build/
 
-projeto sydis/local.properties
+Arquivos do projeto SyDis/local.properties
 
-projeto sydis/*.log
+Arquivos do projeto SyDis/*.log
 
-projeto sydis/captures/
-projeto sydis/.externalNativeBuild/
-projeto sydis/.cxx/
-projeto sydis/*.apk
-projeto sydis/output.json
-projeto sydis/*.iml
-projeto sydis/.idea/
-projeto sydis/misc.xml
-projeto sydis/deploymentTargetDropDown.xml
-projeto sydis/render.experimental.xml
+Arquivos do projeto SyDis/captures/
+Arquivos do projeto SyDis/.externalNativeBuild/
+Arquivos do projeto SyDis/.cxx/
+Arquivos do projeto SyDis/*.apk
+Arquivos do projeto SyDis/output.json
+Arquivos do projeto SyDis/*.iml
+Arquivos do projeto SyDis/.idea/
+Arquivos do projeto SyDis/misc.xml
+Arquivos do projeto SyDis/deploymentTargetDropDown.xml
+Arquivos do projeto SyDis/render.experimental.xml
 
-projeto sydis/*.jks
-projeto sydis/*.keystore
+Arquivos do projeto SyDis/*.jks
+Arquivos do projeto SyDis/*.keystore
 
-projeto sydis/app/google-services.json
+Arquivos do projeto SyDis/app/google-services.json
 
-projeto sydis/*.hprof
+Arquivos do projeto SyDis/*.hprof
